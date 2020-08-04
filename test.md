@@ -1,0 +1,9 @@
+##开发语言
+>java
+##数据库
+>mysql5.7
+##开发技术
+>jsp+servlet
+>ssm
+>ssh
+>springboot
